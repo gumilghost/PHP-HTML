@@ -1,8 +1,7 @@
-PHP HTML
-
+#PHP HTML
 Skrypt na prima aprilis :)
 
-Przykładowe użycie:
+##Przykładowe użycie:
 
 //index.php
 <?php
